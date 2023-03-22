@@ -1,7 +1,7 @@
-FIESCOTimer
+Timer Alarm with I2C OLED Display on Arduino Platform
 ===================
 
-Firmware for FEISCOTimer Arduino Nano written in Arduino IDE
+Firmware in .ino on Arduino IDE
 
 ----------
 
@@ -10,7 +10,6 @@ Firmware for FEISCOTimer Arduino Nano written in Arduino IDE
 
 ### Prerequisites:
  - Arduino IDE
- - The FIESCOTimer module
 
 ### Installing
 
